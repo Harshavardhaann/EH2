@@ -35,13 +35,13 @@ You're demonstrating a classic **MQTT attack scenario** — specifically an **un
 
 ---
 
-### 🧰 **MQTT Tool Setup**
+*MQTT Tool Setup**
 
 ```bash
 sudo apt install mosquitto mosquitto-clients
 ```
 
-* Installs the MQTT broker (`mosquitto`) and client tools (`mosquitto_pub`, `mosquitto_sub`).
+ Installs the MQTT broker (`mosquitto`) and client tools (`mosquitto_pub`, `mosquitto_sub`).
 
 ---
 
