@@ -91,4 +91,4 @@ mosquitto_pub -t "home/temperature" -m "100°C"
 You just injected fake data — that’s an IoT attack.
 
 
-Vyshak1879gtihub
+Vyshak1878gtihub
